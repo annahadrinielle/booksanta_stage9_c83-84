@@ -4,7 +4,7 @@ This version contains just a few modifications to the original repository like:
 3. using SafeAreaProvider instead of View
 4. removing Lottie
 5. rewriting ListItem without using props for all the flatlists
-6. 6. using alert instead of Alert.alert
+6. using alert instead of Alert.alert
 
 Logically, this is similar to the original repository.
 
